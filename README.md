@@ -73,8 +73,7 @@ university-secondhand-market/
 ├── backend/
 │   ├── auth/
 │   ├── products/
-│   ├── chat/git config --global user.email "example@gmail.com"
-│   └── rating/
+│   ├── chat/
 │
 ├── database/
 │   └── ส่วนจัดการฐานข้อมูล
@@ -86,7 +85,10 @@ university-secondhand-market/
 │   └── การทดสอบระบบ
 │
 └── README.md
+```
 
+
+---
 
 ## 6. สมาชิกและหน้าที่
 
@@ -97,7 +99,10 @@ university-secondhand-market/
 | นายวรชิต คำอินทา | Full-Stack Developer (Lead Dev) | พัฒนาระบบ Authentication การลงประกาศ ระบบค้นหา และระบบ Chat |
 | นายปุรเชษฐ์ศิริเขตรกิจ | DevOps & QA Engineer | พัฒนาระบบ Rating/Review ทดสอบระบบ Deploy ระบบขึ้น Cloud Server และรวบรวม Feedback |
 
-7. วัตถุประสงค์ของโครงงาน
+---
+
+## 7. วัตถุประสงค์ของโครงงาน
+
 - ช่วยให้นักศึกษาสามารถซื้อสินค้ามือสองในราคาประหยัด
 - ช่วยให้นักศึกษาสามารถส่งต่อสิ่งของที่ไม่ได้ใช้งานแล้ว
 - เพิ่มความสะดวกในการค้นหาสินค้าตามหมวดหมู่
